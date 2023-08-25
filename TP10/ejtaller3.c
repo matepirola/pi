@@ -1,0 +1,2 @@
+/*Escribir una función recursiva que reciba un arreglo de enteros, un valor para caso base y le aplique una función 
+provista por el usuario.La función opera sobre pares de elementos y devuelve un número entero.*/

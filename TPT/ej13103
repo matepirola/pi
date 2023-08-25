@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include "random.h"
+
+int main(void){
+
+    return 0;
+}
+
+void mezclar(int v[], )
